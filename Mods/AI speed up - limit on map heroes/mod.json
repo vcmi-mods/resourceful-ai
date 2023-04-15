@@ -7,8 +7,5 @@
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 	"contact" : "http://forum.vcmi.eu/index.php",
 	"modType" : "AI",
-
-
-	
-	
+	"keepDisabled" : true
 }
